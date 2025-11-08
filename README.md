@@ -111,7 +111,6 @@ This one is **usable**.
  ┗ 📜 run.sh
 ```
 
-
 ---
 
 ## 📈 Future Enhancements
@@ -129,6 +128,8 @@ Planned upgrades — because AI products evolve:
 
 I’m building AI products that **solve real problems**, not just hit metrics.  
 Curious, hands-on, and I ship.
+
+---
 
 ## License
 This project is licensed under the MIT License.
