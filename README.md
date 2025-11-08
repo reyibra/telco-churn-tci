@@ -90,12 +90,14 @@ This one is **usable**.
 ```
 📦 telco-churn-tci
  ┣ 📜 README.md
+ ┣ 📜 CV_bullets.txt
+ ┣ 📜 Dockerfile
  ┣ 📜 requirements.txt
  ┣ 📜 LICENSE
  ┣ 📜 .gitignore
  ┣ 📂 data
  ┃ ┣ 📂 raw
- ┃ ┗ 📂 processed
+ ┃ ┗ 📜 telco_secret.csv
  ┣ 📂 notebooks
  ┃ ┣ 01_eda.ipynb
  ┃ ┣ 02_feature_engineering.ipynb
