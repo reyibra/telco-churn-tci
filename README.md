@@ -11,7 +11,7 @@ One person, full stack of the pipeline, end-to-end.
 
 ---
 
-## 🚩 The Problem (In Plain English)
+## 🚩 The Problem 
 
 Telcos lose **millions** because they don’t know *who’s about to churn* until it’s too late.  
 Retention teams guess. Discounts fly randomly. Zero targeting. Zero personalization.
