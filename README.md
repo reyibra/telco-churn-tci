@@ -96,6 +96,7 @@ This one is **usable**.
  ┣ 📜 LICENSE
  ┣ 📜 .gitignore
  ┣ 📂 data
+ ┃ ┣ 📂 processed
  ┃ ┣ 📂 raw
  ┃ ┗ 📜 telco_secret.csv
  ┣ 📂 notebooks
