@@ -98,7 +98,7 @@ This one is **usable**.
  ┣ 📂 data
  ┃ ┣ 📂 processed
  ┃ ┣ 📂 raw
- ┃ ┗ 📜 telco_secret.csv
+ ┃   ┗ 📜 telco_secret.csv
  ┣ 📂 notebooks
  ┃ ┣ 01_eda.ipynb
  ┃ ┣ 02_feature_engineering.ipynb
