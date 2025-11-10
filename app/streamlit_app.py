@@ -107,4 +107,3 @@ if page == 'Insights':
     st.markdown('---')
     st.markdown('1) Customers on month-to-month contracts with low engagement have the highest churn risk.\n\n2) Frequent recent complaints correlate strongly with churn probability.\n\n3) Focus retention on new customers (tenure < 6 months).')
     st.markdown('---')
-    st.markdown('Next steps: target experiment, A/B test retention offers, instrument app events.')
