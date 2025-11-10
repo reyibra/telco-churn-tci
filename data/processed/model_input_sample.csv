@@ -1,0 +1,201 @@
+customerID,gender,senior_citizen,dependents,tenure,contract,internet_service,online_security,tech_support,streaming_tv,monthly_charges,total_charges,payment_method,app_usage_min_per_week,complaint_count_6m,satisfaction_rating,engagement_score,churn,tenure_bucket,monthly_charges_bin,churn_flag,monthly_charges_cap,cluster,persona
+CUST01802,Female,0,No,31,Month-to-month,Fiber optic,No,Yes,Yes,143.22,4447.73,Credit card (automatic),191,0,10,0.694,No,25-48,High,0,143.22,0,At-Risk Premium Users
+CUST01191,Female,0,Yes,59,One year,Fiber optic,No,No,No,96.32,5688.92,Credit card (automatic),8,0,1,0.092,Yes,49+,Med-High,1,96.32,1,Tech-Indifferent Drifters
+CUST01818,Female,0,Yes,34,One year,Fiber optic,No,No,No,148.67,5101.85,Electronic check,10,1,6,0.34,Yes,25-48,High,1,148.35049999999998,1,Tech-Indifferent Drifters
+CUST00252,Male,0,Yes,27,Month-to-month,Fiber optic,Yes,Yes,No,137.23,3745.43,Mailed check,139,4,10,0.696,No,25-48,High,0,137.23,2,Price-Sensitive Paula
+CUST02506,Male,0,No,48,Month-to-month,Fiber optic,No,Yes,No,62.45,3030.63,Bank transfer (automatic),255,2,10,0.635,No,25-48,Med-Low,0,62.45,2,Price-Sensitive Paula
+CUST01118,Female,0,Yes,70,Month-to-month,DSL,Yes,No,Yes,137.11,9603.01,Credit card (automatic),281,3,9,0.606,Yes,49+,High,1,137.11,2,Price-Sensitive Paula
+CUST01412,Female,1,No,17,Month-to-month,DSL,Yes,No,No,141.82,2410.16,Electronic check,425,0,10,0.844,No,7-24,High,0,141.82,0,At-Risk Premium Users
+CUST02114,Female,0,No,64,Month-to-month,No,Yes,No,Yes,90.14,5779.67,Mailed check,576,0,6,0.847,Yes,49+,Med-High,1,90.14,0,At-Risk Premium Users
+CUST00409,Male,0,No,14,One year,Fiber optic,No,No,Yes,34.46,507.07,Credit card (automatic),65,0,2,0.194,No,7-24,Low,0,34.46,1,Tech-Indifferent Drifters
+CUST02580,Male,0,No,37,Two year,Fiber optic,No,Yes,Yes,109.03,4066.76,Bank transfer (automatic),581,0,7,0.918,No,25-48,Med-High,0,109.03,0,At-Risk Premium Users
+CUST02255,Male,0,No,60,Month-to-month,Fiber optic,Yes,Yes,Yes,111.95,6739.83,Electronic check,522,1,3,0.528,Yes,49+,Med-High,1,111.95,0,At-Risk Premium Users
+CUST00053,Male,0,Yes,52,Month-to-month,DSL,No,Yes,Yes,113.6,5938.1,Bank transfer (automatic),294,0,7,0.514,No,49+,Med-High,0,113.6,1,Tech-Indifferent Drifters
+CUST00645,Male,0,No,43,Month-to-month,DSL,No,No,No,38.86,1710.67,Bank transfer (automatic),337,0,5,0.513,Yes,25-48,Low,1,38.86,0,At-Risk Premium Users
+CUST01764,Female,0,Yes,65,Month-to-month,Fiber optic,Yes,No,Yes,67.69,4430.14,Bank transfer (automatic),283,1,5,0.582,No,49+,Med-Low,0,67.69,0,At-Risk Premium Users
+CUST02777,Female,0,No,12,Month-to-month,Fiber optic,Yes,No,Yes,148.15,1811.45,Bank transfer (automatic),190,0,3,0.318,Yes,7-24,High,1,148.15,1,Tech-Indifferent Drifters
+CUST00901,Female,0,No,8,One year,No,Yes,No,No,14.26,155.84,Mailed check,378,0,6,0.57,Yes,7-24,Low,1,14.26,0,At-Risk Premium Users
+CUST01074,Male,0,Yes,42,Two year,No,No,No,No,133.74,5608.98,Mailed check,354,2,5,0.576,Yes,25-48,High,1,133.74,2,Price-Sensitive Paula
+CUST00473,Male,0,No,29,One year,Fiber optic,Yes,No,No,59.5,1775.18,Electronic check,225,1,3,0.395,No,25-48,Med-Low,0,59.5,1,Tech-Indifferent Drifters
+CUST02739,Female,0,No,41,Month-to-month,Fiber optic,Yes,Yes,No,63.09,2596.21,Bank transfer (automatic),205,0,1,0.155,Yes,25-48,Med-Low,1,63.09,1,Tech-Indifferent Drifters
+CUST02547,Male,0,Yes,28,Two year,No,No,Yes,Yes,101.09,2851.33,Credit card (automatic),600,1,3,0.58,No,25-48,Med-High,0,101.09,0,At-Risk Premium Users
+CUST00045,Male,0,No,40,Two year,Fiber optic,No,No,Yes,116.92,4688.76,Bank transfer (automatic),431,0,6,0.644,Yes,25-48,High,1,116.92,0,At-Risk Premium Users
+CUST00290,Male,0,No,56,Two year,DSL,Yes,Yes,Yes,45.1,2532.8,Credit card (automatic),500,0,7,0.715,No,49+,Low,0,45.1,0,At-Risk Premium Users
+CUST00913,Male,0,Yes,24,Two year,Fiber optic,No,Yes,No,78.94,1919.96,Mailed check,219,3,9,0.692,No,7-24,Med-Low,0,78.94,2,Price-Sensitive Paula
+CUST02084,Male,0,Yes,2,Month-to-month,Fiber optic,Yes,No,Yes,32.81,80.85,Credit card (automatic),442,0,3,0.585,Yes,0-6,Low,1,32.81,0,At-Risk Premium Users
+CUST01361,Female,0,No,18,Month-to-month,Fiber optic,No,No,Yes,111.59,2016.89,Credit card (automatic),293,0,3,0.409,No,7-24,Med-High,0,111.59,1,Tech-Indifferent Drifters
+CUST02896,Male,0,Yes,71,Month-to-month,DSL,No,No,No,73.74,5248.49,Bank transfer (automatic),166,0,9,0.647,No,49+,Med-Low,0,73.74,1,Tech-Indifferent Drifters
+CUST02604,Female,0,No,71,Two year,DSL,Yes,Yes,Yes,115.0,8167.45,Credit card (automatic),138,0,8,0.446,No,49+,Med-High,0,115.0,1,Tech-Indifferent Drifters
+CUST01227,Male,0,No,9,Two year,Fiber optic,Yes,Yes,No,59.23,580.51,Credit card (automatic),9,0,2,0.168,No,7-24,Med-Low,0,59.23,1,Tech-Indifferent Drifters
+CUST00297,Male,0,No,6,One year,Fiber optic,No,Yes,Yes,79.75,522.48,Credit card (automatic),71,0,1,0.133,Yes,0-6,Med-Low,1,79.75,1,Tech-Indifferent Drifters
+CUST01242,Male,0,No,51,Month-to-month,Fiber optic,Yes,No,No,77.18,3979.91,Mailed check,451,0,5,0.538,Yes,49+,Med-Low,1,77.18,0,At-Risk Premium Users
+CUST01006,Male,0,No,65,Two year,DSL,No,No,Yes,24.14,1581.36,Bank transfer (automatic),206,2,3,0.312,No,49+,Low,0,24.14,1,Tech-Indifferent Drifters
+CUST01666,Female,0,No,56,Month-to-month,DSL,No,Yes,Yes,33.06,1880.93,Bank transfer (automatic),124,0,4,0.3,No,49+,Low,0,33.06,1,Tech-Indifferent Drifters
+CUST00747,Male,0,No,60,One year,No,Yes,No,Yes,51.54,3126.86,Bank transfer (automatic),509,0,2,0.457,Yes,49+,Med-Low,1,51.54,0,At-Risk Premium Users
+CUST02852,Female,0,No,26,One year,No,No,Yes,Yes,67.68,1794.6,Bank transfer (automatic),66,3,2,0.055,Yes,25-48,Med-Low,1,67.68,1,Tech-Indifferent Drifters
+CUST00292,Male,0,No,47,Two year,No,Yes,No,Yes,88.92,4211.63,Electronic check,146,0,2,0.17,Yes,25-48,Med-High,1,88.92,1,Tech-Indifferent Drifters
+CUST00782,Female,0,Yes,26,One year,Fiber optic,Yes,No,Yes,57.66,1525.17,Mailed check,223,0,1,0.142,No,25-48,Med-Low,0,57.66,1,Tech-Indifferent Drifters
+CUST02145,Male,0,No,3,Month-to-month,Fiber optic,Yes,No,No,135.3,398.59,Credit card (automatic),306,0,2,0.443,No,0-6,High,0,135.3,1,Tech-Indifferent Drifters
+CUST00323,Female,0,No,64,Month-to-month,Fiber optic,No,No,No,115.64,7435.76,Credit card (automatic),156,0,3,0.253,Yes,49+,High,1,115.64,1,Tech-Indifferent Drifters
+CUST00299,Male,1,Yes,24,Month-to-month,DSL,Yes,No,Yes,52.39,1275.39,Electronic check,484,4,4,0.604,Yes,7-24,Med-Low,1,52.39,2,Price-Sensitive Paula
+CUST01299,Male,0,Yes,64,Two year,DSL,No,No,Yes,89.68,5738.26,Mailed check,173,0,5,0.434,No,49+,Med-High,0,89.68,1,Tech-Indifferent Drifters
+CUST00195,Female,0,Yes,67,Two year,DSL,Yes,Yes,No,128.25,8624.48,Credit card (automatic),293,0,10,0.669,Yes,49+,High,1,128.25,0,At-Risk Premium Users
+CUST00064,Male,0,Yes,12,Month-to-month,Fiber optic,Yes,Yes,No,13.36,203.69,Mailed check,264,0,2,0.242,No,7-24,Low,0,13.36,1,Tech-Indifferent Drifters
+CUST00394,Female,0,No,20,Month-to-month,Fiber optic,Yes,Yes,Yes,51.33,1065.13,Bank transfer (automatic),345,3,8,0.61,Yes,7-24,Med-Low,1,51.33,2,Price-Sensitive Paula
+CUST00728,Female,0,No,27,Month-to-month,No,No,No,Yes,71.2,1919.89,Credit card (automatic),404,0,7,0.613,No,25-48,Med-Low,0,71.2,0,At-Risk Premium Users
+CUST01584,Male,0,No,43,Month-to-month,Fiber optic,Yes,No,No,32.11,1408.2,Credit card (automatic),546,1,10,1.022,Yes,25-48,Low,1,32.11,0,At-Risk Premium Users
+CUST01548,Male,0,Yes,54,One year,Fiber optic,No,No,No,129.45,7033.61,Bank transfer (automatic),148,4,7,0.379,No,49+,High,0,129.45,2,Price-Sensitive Paula
+CUST02426,Female,0,Yes,51,Month-to-month,DSL,Yes,No,Yes,83.37,4258.93,Bank transfer (automatic),564,0,2,0.514,Yes,49+,Med-High,1,83.37,0,At-Risk Premium Users
+CUST00015,Male,0,Yes,13,Month-to-month,DSL,Yes,No,Yes,113.39,1468.74,Electronic check,192,0,5,0.412,No,7-24,Med-High,0,113.39,1,Tech-Indifferent Drifters
+CUST02568,Male,0,No,2,Month-to-month,Fiber optic,No,No,Yes,144.6,328.66,Mailed check,339,0,1,0.391,Yes,0-6,High,1,144.6,1,Tech-Indifferent Drifters
+CUST01601,Male,0,Yes,26,Two year,Fiber optic,No,No,No,99.13,2615.55,Bank transfer (automatic),587,2,8,0.934,Yes,25-48,Med-High,1,99.13,0,At-Risk Premium Users
+CUST01091,Female,0,Yes,15,Month-to-month,No,Yes,Yes,Yes,139.44,2140.12,Credit card (automatic),323,1,4,0.438,Yes,7-24,High,1,139.44,1,Tech-Indifferent Drifters
+CUST02112,Female,0,Yes,12,Month-to-month,Fiber optic,Yes,No,No,68.03,841.91,Electronic check,579,0,10,1.047,Yes,7-24,Med-Low,1,68.03,0,At-Risk Premium Users
+CUST00204,Female,0,Yes,18,Month-to-month,DSL,No,Yes,No,50.64,914.1,Bank transfer (automatic),309,0,3,0.372,Yes,7-24,Med-Low,1,50.64,1,Tech-Indifferent Drifters
+CUST02419,Male,0,Yes,47,One year,Fiber optic,No,No,No,110.0,5184.02,Mailed check,297,0,10,0.665,No,25-48,Med-High,0,110.0,0,At-Risk Premium Users
+CUST00153,Female,0,No,60,One year,No,Yes,No,No,100.47,6042.26,Mailed check,76,0,5,0.27,No,49+,Med-High,0,100.47,1,Tech-Indifferent Drifters
+CUST02902,Male,0,Yes,5,Month-to-month,Fiber optic,No,Yes,No,109.92,591.42,Credit card (automatic),23,0,10,0.473,No,0-6,Med-High,0,109.92,1,Tech-Indifferent Drifters
+CUST01360,Male,0,No,27,Two year,Fiber optic,Yes,Yes,No,126.5,3455.3,Bank transfer (automatic),139,0,4,0.29,No,25-48,High,0,126.5,1,Tech-Indifferent Drifters
+CUST00773,Female,0,No,16,Month-to-month,Fiber optic,Yes,No,No,135.59,2195.05,Bank transfer (automatic),6,0,7,0.312,No,7-24,High,0,135.59,1,Tech-Indifferent Drifters
+CUST02679,Female,0,Yes,10,Two year,No,Yes,No,Yes,137.72,1407.39,Bank transfer (automatic),209,3,9,0.541,Yes,7-24,High,1,137.72,2,Price-Sensitive Paula
+CUST01002,Female,0,No,6,Month-to-month,DSL,Yes,Yes,Yes,20.52,134.03,Bank transfer (automatic),469,2,2,0.446,Yes,0-6,Low,1,20.52,2,Price-Sensitive Paula
+CUST00719,Female,0,No,55,Month-to-month,No,No,No,Yes,54.6,3029.77,Electronic check,100,0,1,0.196,No,49+,Med-Low,0,54.6,1,Tech-Indifferent Drifters
+CUST00613,Female,0,No,49,Month-to-month,Fiber optic,No,Yes,Yes,80.09,3922.55,Electronic check,549,0,9,0.871,Yes,49+,Med-Low,1,80.09,0,At-Risk Premium Users
+CUST00843,Female,0,No,8,Two year,No,Yes,Yes,No,32.12,298.19,Credit card (automatic),247,1,9,0.592,No,7-24,Low,0,32.12,1,Tech-Indifferent Drifters
+CUST00267,Female,1,No,21,One year,Fiber optic,No,Yes,Yes,46.62,1021.21,Bank transfer (automatic),104,0,5,0.404,No,7-24,Med-Low,0,46.62,1,Tech-Indifferent Drifters
+CUST00052,Male,0,Yes,29,Month-to-month,DSL,Yes,Yes,No,20.04,619.47,Bank transfer (automatic),544,0,1,0.523,Yes,25-48,Low,1,20.04,0,At-Risk Premium Users
+CUST01196,Male,0,No,4,Two year,Fiber optic,No,Yes,No,79.36,365.66,Mailed check,167,0,9,0.632,No,0-6,Med-Low,0,79.36,1,Tech-Indifferent Drifters
+CUST01271,Female,0,No,18,One year,Fiber optic,No,Yes,No,60.33,1134.07,Electronic check,388,0,3,0.529,Yes,7-24,Med-Low,1,60.33,0,At-Risk Premium Users
+CUST01492,Male,0,No,52,One year,DSL,Yes,No,No,90.58,4748.31,Bank transfer (automatic),110,3,6,0.375,Yes,49+,Med-High,1,90.58,2,Price-Sensitive Paula
+CUST01583,Male,1,Yes,48,Two year,Fiber optic,Yes,Yes,No,51.55,2502.09,Electronic check,258,0,7,0.66,No,25-48,Med-Low,0,51.55,0,At-Risk Premium Users
+CUST00522,Female,0,No,62,One year,Fiber optic,No,No,No,149.6,9305.01,Bank transfer (automatic),216,0,5,0.426,No,49+,High,0,148.35049999999998,1,Tech-Indifferent Drifters
+CUST01695,Male,0,No,42,Month-to-month,Fiber optic,No,No,No,33.62,1443.21,Bank transfer (automatic),137,3,9,0.528,Yes,25-48,Low,1,33.62,2,Price-Sensitive Paula
+CUST02664,Female,0,Yes,72,Month-to-month,Fiber optic,Yes,Yes,No,101.54,7317.36,Mailed check,94,1,8,0.447,No,49+,Med-High,0,101.54,1,Tech-Indifferent Drifters
+CUST02749,Male,0,No,60,Two year,DSL,No,No,Yes,142.04,8552.41,Credit card (automatic),514,1,1,0.423,Yes,49+,High,1,142.04,0,At-Risk Premium Users
+CUST01922,Male,0,Yes,69,One year,No,Yes,Yes,Yes,142.77,9869.31,Credit card (automatic),122,0,9,0.58,No,49+,High,0,142.77,1,Tech-Indifferent Drifters
+CUST00103,Male,0,No,7,Month-to-month,DSL,No,Yes,No,36.41,286.35,Credit card (automatic),113,0,6,0.321,Yes,7-24,Low,1,36.41,1,Tech-Indifferent Drifters
+CUST00696,Female,0,No,26,Month-to-month,Fiber optic,Yes,No,Yes,131.27,3446.72,Credit card (automatic),85,0,5,0.237,Yes,25-48,High,1,131.27,1,Tech-Indifferent Drifters
+CUST02333,Male,0,No,64,Month-to-month,Fiber optic,No,No,No,25.62,1650.82,Credit card (automatic),596,1,10,1.072,No,49+,Low,0,25.62,0,At-Risk Premium Users
+CUST02725,Female,0,No,23,Month-to-month,DSL,No,No,Yes,34.1,817.19,Mailed check,73,1,5,0.258,No,7-24,Low,0,34.1,1,Tech-Indifferent Drifters
+CUST02273,Male,0,No,60,One year,Fiber optic,No,No,No,55.89,3358.86,Bank transfer (automatic),177,1,10,0.678,Yes,49+,Med-Low,1,55.89,1,Tech-Indifferent Drifters
+CUST02483,Female,0,Yes,6,Two year,DSL,No,Yes,No,43.24,256.07,Mailed check,109,0,5,0.397,Yes,0-6,Low,1,43.24,1,Tech-Indifferent Drifters
+CUST01843,Female,0,No,16,Month-to-month,DSL,No,Yes,No,137.01,2189.13,Credit card (automatic),304,0,7,0.554,No,7-24,High,0,137.01,0,At-Risk Premium Users
+CUST01831,Female,0,No,38,One year,Fiber optic,No,No,No,18.32,726.57,Credit card (automatic),99,0,1,0.211,No,25-48,Low,0,18.32,1,Tech-Indifferent Drifters
+CUST00795,Female,0,Yes,11,Two year,Fiber optic,No,No,No,122.93,1361.91,Credit card (automatic),116,4,5,0.303,No,7-24,High,0,122.93,2,Price-Sensitive Paula
+CUST01821,Female,0,No,27,Month-to-month,No,No,Yes,No,26.32,720.56,Mailed check,110,0,5,0.323,No,25-48,Low,0,26.32,1,Tech-Indifferent Drifters
+CUST02002,Male,0,No,62,Month-to-month,DSL,Yes,Yes,Yes,30.61,1889.57,Credit card (automatic),247,0,8,0.517,Yes,49+,Low,1,30.61,1,Tech-Indifferent Drifters
+CUST00145,Female,0,No,36,Month-to-month,DSL,No,No,Yes,79.63,2904.64,Bank transfer (automatic),278,0,2,0.363,No,25-48,Med-Low,0,79.63,1,Tech-Indifferent Drifters
+CUST02526,Female,0,No,64,Two year,Fiber optic,Yes,Yes,Yes,32.97,2159.87,Bank transfer (automatic),179,0,7,0.555,Yes,49+,Low,1,32.97,1,Tech-Indifferent Drifters
+CUST01331,Male,0,Yes,19,Month-to-month,DSL,Yes,Yes,Yes,90.26,1745.1,Credit card (automatic),188,1,5,0.451,No,7-24,Med-High,0,90.26,1,Tech-Indifferent Drifters
+CUST02478,Female,0,Yes,2,Month-to-month,Fiber optic,No,No,Yes,13.35,71.68,Mailed check,458,0,5,0.591,No,0-6,Low,0,13.35,0,At-Risk Premium Users
+CUST02882,Female,0,Yes,40,Month-to-month,No,Yes,No,Yes,50.08,2033.67,Mailed check,430,5,9,0.907,Yes,25-48,Med-Low,1,50.08,2,Price-Sensitive Paula
+CUST00322,Female,0,Yes,33,Month-to-month,DSL,Yes,No,No,129.9,4293.48,Credit card (automatic),561,0,6,0.777,Yes,25-48,High,1,129.9,0,At-Risk Premium Users
+CUST01262,Male,0,Yes,32,One year,Fiber optic,No,Yes,Yes,48.88,1571.18,Bank transfer (automatic),247,0,9,0.707,Yes,25-48,Med-Low,1,48.88,0,At-Risk Premium Users
+CUST02415,Female,1,No,57,One year,Fiber optic,No,Yes,Yes,52.92,3009.21,Credit card (automatic),422,0,1,0.44,No,49+,Med-Low,0,52.92,0,At-Risk Premium Users
+CUST01270,Male,0,No,14,Month-to-month,Fiber optic,Yes,Yes,Yes,128.9,1797.97,Credit card (automatic),231,0,1,0.256,Yes,7-24,High,1,128.9,1,Tech-Indifferent Drifters
+CUST01761,Female,0,No,41,One year,Fiber optic,No,Yes,Yes,18.58,791.3,Electronic check,333,0,6,0.52,No,25-48,Low,0,18.58,0,At-Risk Premium Users
+CUST00417,Male,0,Yes,23,One year,Fiber optic,Yes,Yes,No,127.4,2954.01,Electronic check,249,0,1,0.28,Yes,7-24,High,1,127.4,1,Tech-Indifferent Drifters
+CUST02632,Female,0,No,0,Month-to-month,Fiber optic,No,Yes,No,84.31,114.47,Mailed check,143,0,5,0.282,No,0-6,Med-High,0,84.31,1,Tech-Indifferent Drifters
+CUST02292,Female,0,No,66,Month-to-month,Fiber optic,Yes,No,Yes,76.07,5048.15,Credit card (automatic),489,0,8,0.883,Yes,49+,Med-Low,1,76.07,0,At-Risk Premium Users
+CUST00175,Male,0,Yes,16,Month-to-month,DSL,No,No,No,113.1,1829.48,Mailed check,199,1,7,0.498,Yes,7-24,Med-High,1,113.1,1,Tech-Indifferent Drifters
+CUST01726,Female,0,Yes,17,One year,Fiber optic,Yes,No,Yes,40.67,736.03,Mailed check,195,2,3,0.372,Yes,7-24,Low,1,40.67,1,Tech-Indifferent Drifters
+CUST02176,Female,0,No,40,One year,Fiber optic,Yes,Yes,Yes,84.69,3380.32,Bank transfer (automatic),168,1,1,0.107,No,25-48,Med-High,0,84.69,1,Tech-Indifferent Drifters
+CUST00046,Male,0,Yes,21,One year,No,No,No,Yes,13.42,326.59,Mailed check,227,1,2,0.293,Yes,7-24,Low,1,13.42,1,Tech-Indifferent Drifters
+CUST00686,Male,0,Yes,57,Month-to-month,No,No,No,Yes,46.92,2690.35,Credit card (automatic),436,0,5,0.523,No,49+,Med-Low,0,46.92,0,At-Risk Premium Users
+CUST01608,Male,0,Yes,8,One year,Fiber optic,No,No,No,125.3,1011.08,Credit card (automatic),228,0,8,0.587,No,7-24,High,0,125.3,1,Tech-Indifferent Drifters
+CUST01232,Female,1,Yes,19,Month-to-month,Fiber optic,No,No,Yes,60.74,1189.02,Credit card (automatic),544,2,9,0.871,No,7-24,Med-Low,0,60.74,0,At-Risk Premium Users
+CUST00863,Female,0,No,24,Two year,Fiber optic,No,No,No,20.59,527.46,Credit card (automatic),228,0,1,0.166,No,7-24,Low,0,20.59,1,Tech-Indifferent Drifters
+CUST01966,Male,0,No,14,One year,DSL,No,No,Yes,15.3,223.61,Mailed check,129,0,3,0.228,Yes,7-24,Low,1,15.3,1,Tech-Indifferent Drifters
+CUST00332,Male,0,No,63,Month-to-month,No,Yes,Yes,Yes,103.76,6579.89,Credit card (automatic),347,1,3,0.471,Yes,49+,Med-High,1,103.76,0,At-Risk Premium Users
+CUST00094,Male,0,No,13,Two year,Fiber optic,Yes,No,No,73.16,948.45,Credit card (automatic),461,2,10,0.91,No,7-24,Med-Low,0,73.16,0,At-Risk Premium Users
+CUST01642,Female,0,Yes,71,One year,Fiber optic,Yes,No,No,37.68,2716.77,Mailed check,329,1,5,0.622,Yes,49+,Low,1,37.68,0,At-Risk Premium Users
+CUST02987,Female,0,Yes,53,Month-to-month,Fiber optic,No,Yes,Yes,131.54,6995.33,Electronic check,254,0,9,0.57,Yes,49+,High,1,131.54,0,At-Risk Premium Users
+CUST00507,Female,0,No,54,Month-to-month,Fiber optic,No,Yes,Yes,141.3,7651.34,Credit card (automatic),285,3,2,0.286,Yes,49+,High,1,141.3,2,Price-Sensitive Paula
+CUST02910,Female,0,No,27,One year,DSL,Yes,No,Yes,46.55,1252.96,Credit card (automatic),169,1,7,0.407,Yes,25-48,Med-Low,1,46.55,1,Tech-Indifferent Drifters
+CUST02046,Male,0,No,27,Month-to-month,DSL,No,No,Yes,42.8,1194.87,Mailed check,223,0,6,0.404,Yes,25-48,Low,1,42.8,1,Tech-Indifferent Drifters
+CUST00496,Female,0,No,9,Two year,No,No,No,No,18.8,161.26,Electronic check,9,4,5,0.236,Yes,7-24,Low,1,18.8,2,Price-Sensitive Paula
+CUST02133,Female,0,Yes,1,Month-to-month,DSL,No,No,Yes,135.36,155.73,Electronic check,85,1,10,0.491,No,0-6,High,0,135.36,1,Tech-Indifferent Drifters
+CUST00001,Female,1,No,52,One year,Fiber optic,No,No,Yes,114.0,5932.8,Credit card (automatic),492,0,1,0.551,Yes,49+,Med-High,1,114.0,0,At-Risk Premium Users
+CUST00315,Female,0,Yes,55,One year,DSL,Yes,Yes,Yes,144.77,7962.59,Electronic check,221,1,8,0.644,No,49+,High,0,144.77,0,At-Risk Premium Users
+CUST01273,Female,0,No,2,Month-to-month,No,No,No,Yes,114.21,269.6,Electronic check,455,0,5,0.536,No,0-6,Med-High,0,114.21,0,At-Risk Premium Users
+CUST01942,Female,0,No,35,One year,No,Yes,No,Yes,98.21,3439.5,Electronic check,288,0,4,0.431,Yes,25-48,Med-High,1,98.21,1,Tech-Indifferent Drifters
+CUST02968,Female,0,Yes,64,One year,Fiber optic,No,Yes,No,92.54,5922.45,Credit card (automatic),126,0,5,0.271,No,49+,Med-High,0,92.54,1,Tech-Indifferent Drifters
+CUST01317,Male,0,Yes,7,Month-to-month,No,Yes,No,Yes,113.38,826.83,Credit card (automatic),517,0,9,0.86,No,7-24,Med-High,0,113.38,0,At-Risk Premium Users
+CUST00756,Male,1,Yes,28,Month-to-month,Fiber optic,Yes,Yes,Yes,90.19,2532.61,Mailed check,347,0,8,0.645,Yes,25-48,Med-High,1,90.19,0,At-Risk Premium Users
+CUST01771,Female,0,Yes,32,Month-to-month,Fiber optic,No,No,Yes,28.96,935.44,Credit card (automatic),147,3,10,0.699,No,25-48,Low,0,28.96,2,Price-Sensitive Paula
+CUST01201,Male,0,No,69,Month-to-month,DSL,No,Yes,No,24.92,1709.5,Electronic check,161,0,5,0.353,No,49+,Low,0,24.92,1,Tech-Indifferent Drifters
+CUST02175,Female,0,No,34,One year,DSL,Yes,Yes,Yes,45.47,1589.03,Mailed check,476,2,6,0.679,Yes,25-48,Low,1,45.47,0,At-Risk Premium Users
+CUST01992,Female,0,Yes,22,Month-to-month,Fiber optic,No,Yes,No,80.44,1786.32,Bank transfer (automatic),118,1,5,0.321,No,7-24,Med-Low,0,80.44,1,Tech-Indifferent Drifters
+CUST00880,Female,0,Yes,44,One year,DSL,Yes,No,No,18.8,845.81,Electronic check,407,0,10,0.859,No,25-48,Low,0,18.8,0,At-Risk Premium Users
+CUST00766,Male,0,No,6,Month-to-month,DSL,Yes,No,No,66.08,388.95,Electronic check,559,0,1,0.502,Yes,0-6,Med-Low,1,66.08,0,At-Risk Premium Users
+CUST00928,Male,0,Yes,32,Month-to-month,Fiber optic,No,No,No,58.81,1873.82,Mailed check,161,0,8,0.604,No,25-48,Med-Low,0,58.81,1,Tech-Indifferent Drifters
+CUST02378,Male,0,Yes,42,Month-to-month,No,Yes,Yes,No,103.76,4381.03,Credit card (automatic),394,0,5,0.483,Yes,25-48,Med-High,1,103.76,0,At-Risk Premium Users
+CUST01375,Female,0,Yes,46,Two year,DSL,No,No,No,43.08,1975.75,Bank transfer (automatic),533,0,7,0.765,No,25-48,Low,0,43.08,0,At-Risk Premium Users
+CUST01815,Female,0,No,29,Month-to-month,No,Yes,No,Yes,49.83,1487.4,Electronic check,579,1,7,0.801,Yes,25-48,Med-Low,1,49.83,0,At-Risk Premium Users
+CUST01799,Female,0,Yes,24,Two year,No,No,No,No,14.47,380.59,Credit card (automatic),139,0,6,0.393,No,7-24,Low,0,14.47,1,Tech-Indifferent Drifters
+CUST00930,Female,0,Yes,50,Month-to-month,Fiber optic,No,No,Yes,133.32,6715.91,Bank transfer (automatic),126,0,8,0.407,Yes,49+,High,1,133.32,1,Tech-Indifferent Drifters
+CUST00437,Female,0,Yes,50,Two year,Fiber optic,Yes,No,Yes,15.87,833.01,Bank transfer (automatic),582,1,7,0.738,No,49+,Low,0,15.87,0,At-Risk Premium Users
+CUST00197,Female,0,No,37,Month-to-month,Fiber optic,No,Yes,Yes,141.38,5249.51,Mailed check,209,3,7,0.49,Yes,25-48,High,1,141.38,2,Price-Sensitive Paula
+CUST01763,Female,0,Yes,42,One year,DSL,Yes,No,No,14.68,607.89,Bank transfer (automatic),428,1,4,0.554,No,25-48,Low,0,14.68,0,At-Risk Premium Users
+CUST01065,Male,1,No,63,Month-to-month,Fiber optic,No,Yes,Yes,90.74,5733.44,Electronic check,304,0,2,0.442,Yes,49+,Med-High,1,90.74,1,Tech-Indifferent Drifters
+CUST02343,Female,0,Yes,27,Month-to-month,DSL,Yes,Yes,No,126.4,3460.32,Mailed check,252,5,1,0.332,Yes,25-48,High,1,126.4,2,Price-Sensitive Paula
+CUST02529,Female,0,Yes,1,One year,Fiber optic,Yes,Yes,No,34.02,45.43,Credit card (automatic),97,0,4,0.303,Yes,0-6,Low,1,34.02,1,Tech-Indifferent Drifters
+CUST01269,Female,0,No,61,Month-to-month,Fiber optic,No,Yes,No,84.15,5141.33,Mailed check,237,0,8,0.517,Yes,49+,Med-High,1,84.15,1,Tech-Indifferent Drifters
+CUST02324,Female,0,No,60,Month-to-month,Fiber optic,No,No,Yes,34.19,2058.93,Bank transfer (automatic),584,2,9,0.945,Yes,49+,Low,1,34.19,0,At-Risk Premium Users
+CUST02780,Female,0,Yes,49,Month-to-month,No,Yes,No,No,32.21,1584.64,Credit card (automatic),355,0,2,0.444,No,49+,Low,0,32.21,1,Tech-Indifferent Drifters
+CUST02226,Male,0,Yes,54,One year,DSL,No,Yes,Yes,56.08,3044.79,Electronic check,528,0,2,0.518,No,49+,Med-Low,0,56.08,0,At-Risk Premium Users
+CUST00451,Male,0,No,65,Month-to-month,Fiber optic,No,Yes,Yes,18.52,1239.76,Credit card (automatic),374,0,7,0.736,No,49+,Low,0,18.52,0,At-Risk Premium Users
+CUST02165,Male,0,No,62,Month-to-month,Fiber optic,No,No,Yes,100.69,6278.86,Credit card (automatic),200,3,6,0.394,Yes,49+,Med-High,1,100.69,2,Price-Sensitive Paula
+CUST02373,Male,0,Yes,41,Two year,DSL,Yes,Yes,No,97.37,3999.39,Electronic check,13,0,9,0.444,No,25-48,Med-High,0,97.37,1,Tech-Indifferent Drifters
+CUST02013,Female,0,Yes,41,Two year,Fiber optic,Yes,No,Yes,74.4,3046.67,Bank transfer (automatic),49,0,8,0.369,No,25-48,Med-Low,0,74.4,1,Tech-Indifferent Drifters
+CUST00271,Male,0,Yes,67,Month-to-month,DSL,No,Yes,Yes,30.98,2115.33,Electronic check,80,0,2,0.084,Yes,49+,Low,1,30.98,1,Tech-Indifferent Drifters
+CUST01841,Male,0,Yes,27,Month-to-month,DSL,No,No,No,45.97,1265.27,Credit card (automatic),473,2,3,0.519,Yes,25-48,Med-Low,1,45.97,0,At-Risk Premium Users
+CUST02935,Male,1,Yes,8,Month-to-month,Fiber optic,Yes,Yes,Yes,30.14,249.61,Credit card (automatic),85,0,2,0.111,No,7-24,Low,0,30.14,1,Tech-Indifferent Drifters
+CUST00979,Male,0,Yes,34,Month-to-month,No,Yes,No,Yes,13.23,458.83,Credit card (automatic),340,5,10,0.73,Yes,25-48,Low,1,13.23,2,Price-Sensitive Paula
+CUST02167,Female,0,Yes,62,Month-to-month,DSL,No,No,Yes,99.17,6188.69,Mailed check,559,0,2,0.518,Yes,49+,Med-High,1,99.17,0,At-Risk Premium Users
+CUST00355,Female,0,Yes,19,Month-to-month,Fiber optic,Yes,No,Yes,20.97,446.43,Bank transfer (automatic),464,0,2,0.4,No,7-24,Low,0,20.97,0,At-Risk Premium Users
+CUST01877,Male,0,No,51,Month-to-month,Fiber optic,Yes,No,No,76.7,3905.06,Credit card (automatic),532,0,6,0.738,No,49+,Med-Low,0,76.7,0,At-Risk Premium Users
+CUST00185,Male,0,No,50,Month-to-month,DSL,Yes,No,No,15.39,817.22,Bank transfer (automatic),598,3,1,0.571,No,49+,Low,0,15.39,2,Price-Sensitive Paula
+CUST02745,Female,0,Yes,36,Month-to-month,Fiber optic,No,No,Yes,104.78,3794.46,Electronic check,87,0,8,0.534,Yes,25-48,Med-High,1,104.78,1,Tech-Indifferent Drifters
+CUST01615,Male,0,No,66,One year,DSL,No,No,No,107.49,7094.64,Mailed check,166,3,4,0.25,No,49+,Med-High,0,107.49,2,Price-Sensitive Paula
+CUST02760,Female,0,Yes,2,One year,DSL,Yes,No,Yes,45.81,129.88,Electronic check,447,0,9,0.723,Yes,0-6,Med-Low,1,45.81,0,At-Risk Premium Users
+CUST01707,Male,0,No,66,Month-to-month,Fiber optic,No,No,Yes,55.93,3706.48,Mailed check,491,1,1,0.511,No,49+,Med-Low,0,55.93,0,At-Risk Premium Users
+CUST01862,Female,0,No,45,Month-to-month,Fiber optic,Yes,No,Yes,105.9,4761.04,Bank transfer (automatic),67,0,3,0.204,No,25-48,Med-High,0,105.9,1,Tech-Indifferent Drifters
+CUST00247,Female,0,No,68,Month-to-month,Fiber optic,No,No,Yes,105.5,7194.28,Credit card (automatic),223,0,8,0.67,Yes,49+,Med-High,1,105.5,0,At-Risk Premium Users
+CUST00556,Female,0,Yes,60,Month-to-month,DSL,No,Yes,Yes,70.48,4276.97,Bank transfer (automatic),383,0,8,0.793,No,49+,Med-Low,0,70.48,0,At-Risk Premium Users
+CUST01753,Male,0,Yes,66,Month-to-month,DSL,No,Yes,Yes,72.88,4820.95,Credit card (automatic),169,0,7,0.485,Yes,49+,Med-Low,1,72.88,1,Tech-Indifferent Drifters
+CUST01365,Male,0,Yes,35,Month-to-month,Fiber optic,No,Yes,Yes,33.66,1176.54,Credit card (automatic),317,4,7,0.691,Yes,25-48,Low,1,33.66,2,Price-Sensitive Paula
+CUST00068,Female,0,No,19,Month-to-month,DSL,No,Yes,Yes,84.36,1633.71,Bank transfer (automatic),465,0,6,0.623,No,7-24,Med-High,0,84.36,0,At-Risk Premium Users
+CUST02619,Male,0,Yes,54,Month-to-month,Fiber optic,No,No,Yes,36.62,2022.47,Bank transfer (automatic),290,1,5,0.397,No,49+,Low,0,36.62,1,Tech-Indifferent Drifters
+CUST02285,Female,0,No,50,Month-to-month,No,Yes,Yes,Yes,136.4,6836.43,Mailed check,278,2,8,0.545,Yes,49+,High,1,136.4,2,Price-Sensitive Paula
+CUST00533,Female,0,Yes,9,One year,Fiber optic,Yes,Yes,Yes,80.68,732.7,Electronic check,352,1,1,0.411,Yes,7-24,Med-Low,1,80.68,1,Tech-Indifferent Drifters
+CUST02874,Male,0,No,37,Month-to-month,Fiber optic,No,Yes,Yes,79.19,2949.2,Credit card (automatic),338,2,9,0.753,No,25-48,Med-Low,0,79.19,0,At-Risk Premium Users
+CUST02706,Female,0,No,32,Month-to-month,Fiber optic,No,Yes,Yes,41.99,1336.48,Mailed check,284,0,7,0.5,No,25-48,Low,0,41.99,1,Tech-Indifferent Drifters
+CUST01503,Male,0,No,2,Two year,Fiber optic,Yes,No,No,99.6,227.66,Credit card (automatic),84,5,9,0.504,Yes,0-6,Med-High,1,99.6,2,Price-Sensitive Paula
+CUST00762,Male,0,Yes,52,One year,DSL,No,No,Yes,17.49,935.34,Mailed check,86,1,4,0.35,No,49+,Low,0,17.49,1,Tech-Indifferent Drifters
+CUST02753,Male,1,Yes,19,Two year,Fiber optic,Yes,No,Yes,63.12,1227.82,Credit card (automatic),373,2,1,0.29,Yes,7-24,Med-Low,1,63.12,2,Price-Sensitive Paula
+CUST01212,Male,1,Yes,60,Month-to-month,DSL,Yes,Yes,No,36.47,2225.44,Mailed check,599,5,8,0.855,No,49+,Low,0,36.47,2,Price-Sensitive Paula
+CUST02244,Female,0,Yes,12,Two year,DSL,Yes,No,Yes,145.1,1777.11,Mailed check,416,0,2,0.527,No,7-24,High,0,145.1,0,At-Risk Premium Users
+CUST01794,Male,1,No,1,Month-to-month,Fiber optic,No,No,Yes,90.44,102.92,Bank transfer (automatic),449,1,3,0.604,No,0-6,Med-High,0,90.44,0,At-Risk Premium Users
+CUST00536,Female,0,Yes,53,Month-to-month,Fiber optic,Yes,Yes,Yes,14.14,740.7,Credit card (automatic),451,0,8,0.821,Yes,49+,Low,1,14.14,0,At-Risk Premium Users
+CUST01747,Female,0,Yes,11,Month-to-month,Fiber optic,Yes,No,Yes,98.92,1106.68,Electronic check,388,0,10,0.847,Yes,7-24,Med-High,1,98.92,0,At-Risk Premium Users
+CUST00464,Male,0,Yes,61,One year,DSL,Yes,Yes,No,100.3,6161.17,Mailed check,549,2,6,0.672,Yes,49+,Med-High,1,100.3,0,At-Risk Premium Users
+CUST02678,Female,0,No,36,Month-to-month,DSL,Yes,No,No,57.19,2051.61,Credit card (automatic),428,0,5,0.59,Yes,25-48,Med-Low,1,57.19,0,At-Risk Premium Users
+CUST01840,Male,0,Yes,37,Month-to-month,Fiber optic,Yes,Yes,No,112.2,4171.61,Electronic check,300,0,8,0.696,No,25-48,Med-High,0,112.2,0,At-Risk Premium Users
+CUST02863,Female,0,Yes,68,Month-to-month,Fiber optic,Yes,No,No,77.88,5333.84,Mailed check,26,0,7,0.305,Yes,49+,Med-Low,1,77.88,1,Tech-Indifferent Drifters
+CUST00125,Female,0,No,12,Month-to-month,Fiber optic,Yes,No,No,100.56,1247.53,Electronic check,522,0,1,0.4,No,7-24,Med-High,0,100.56,0,At-Risk Premium Users
+CUST00179,Male,0,Yes,37,Two year,Fiber optic,Yes,No,Yes,146.67,5455.23,Mailed check,211,0,6,0.483,Yes,25-48,High,1,146.67,1,Tech-Indifferent Drifters
+CUST00193,Male,0,No,17,Month-to-month,No,Yes,Yes,No,138.94,2353.3,Credit card (automatic),12,3,7,0.308,No,7-24,High,0,138.94,2,Price-Sensitive Paula
+CUST02308,Male,0,Yes,67,Two year,Fiber optic,Yes,Yes,Yes,126.11,8497.47,Mailed check,368,1,4,0.575,Yes,49+,High,1,126.11,0,At-Risk Premium Users
+CUST01430,Male,0,No,65,One year,DSL,Yes,No,Yes,134.07,8737.45,Electronic check,510,0,2,0.492,No,49+,High,0,134.07,0,At-Risk Premium Users
+CUST01692,Female,1,Yes,4,Month-to-month,Fiber optic,No,No,No,131.78,567.04,Electronic check,297,0,10,0.666,No,0-6,High,0,131.78,0,At-Risk Premium Users
+CUST00742,Male,0,Yes,3,Month-to-month,DSL,No,Yes,Yes,98.63,298.84,Mailed check,306,0,10,0.719,Yes,0-6,Med-High,1,98.63,0,At-Risk Premium Users
+CUST01035,Female,0,Yes,1,Month-to-month,Fiber optic,Yes,No,Yes,23.57,67.4,Mailed check,137,0,5,0.43,Yes,0-6,Low,1,23.57,1,Tech-Indifferent Drifters
+CUST01967,Male,0,No,49,Month-to-month,Fiber optic,Yes,Yes,No,20.88,1056.41,Bank transfer (automatic),481,0,2,0.542,No,49+,Low,0,20.88,0,At-Risk Premium Users
+CUST00479,Female,0,No,3,Month-to-month,Fiber optic,No,Yes,No,149.92,451.35,Credit card (automatic),156,0,2,0.147,Yes,0-6,High,1,148.35049999999998,1,Tech-Indifferent Drifters
+CUST01028,Female,0,Yes,19,Month-to-month,DSL,Yes,Yes,Yes,65.31,1244.54,Bank transfer (automatic),10,0,10,0.497,No,7-24,Med-Low,0,65.31,1,Tech-Indifferent Drifters
+CUST02602,Male,0,Yes,54,One year,Fiber optic,No,No,No,21.62,1176.66,Bank transfer (automatic),16,3,4,0.168,Yes,49+,Low,1,21.62,1,Tech-Indifferent Drifters
+CUST00369,Female,0,No,21,Month-to-month,No,No,No,Yes,18.24,374.78,Bank transfer (automatic),296,0,6,0.568,No,7-24,Low,0,18.24,0,At-Risk Premium Users
+CUST02524,Male,0,Yes,21,Month-to-month,Fiber optic,Yes,No,Yes,76.9,1621.14,Credit card (automatic),406,5,1,0.457,Yes,7-24,Med-Low,1,76.9,2,Price-Sensitive Paula
+CUST00846,Female,0,Yes,8,Two year,Fiber optic,No,Yes,Yes,110.37,924.37,Bank transfer (automatic),516,0,10,1.009,No,7-24,Med-High,0,110.37,0,At-Risk Premium Users
+CUST00257,Male,0,No,16,One year,DSL,No,No,Yes,90.13,1465.17,Mailed check,232,2,2,0.256,Yes,7-24,Med-High,1,90.13,1,Tech-Indifferent Drifters

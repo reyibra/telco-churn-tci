@@ -1,0 +1,6 @@
+{
+  "model": "RandomForestClassifier",
+  "train_acc": 1.0,
+  "test_acc": 0.585,
+  "n_features": 18
+}
